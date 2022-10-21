@@ -1,0 +1,229 @@
+header{
+    
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:rgba(7, 6, 6,0.9);
+    text-shadow: 1px 5px 8px blue;;
+}
+body{
+    background-image: url("https://www.gratistodo.com/wp-content/uploads/2016/08/Gifs-del-Universo.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+header{
+    text-align: center;
+    color: white;
+    position: fixed;
+    background-color: black;
+    width: 100%;
+    padding: -9px;
+    margin-top: -9px;
+    margin: -9px;
+    }
+#mercurio{
+    border-radius: 15%;
+    width: 15%;
+    /*tamaño-tipo-color*/
+    border: 2px solid white;
+    padding: 3px;
+    background-color: white;
+}
+.caja{
+    position: relative;
+    display: inline-block;
+}
+#texto{
+    position:absolute;
+    top: 72%;
+    left: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: white;
+    background-color: black;
+}
+#ven{
+    margin-left:3%;
+    border-radius: 15%;
+    width: 15%;
+    /*tamaño-tipo-color*/
+    border: 2px solid white;
+    padding: 3px;
+    background-color: white;
+}
+.texto1{
+    
+    position:absolute;
+    top: 72%;
+    left: 26%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: white;
+    background-color: black;
+}
+#tierr{
+    margin-left:3%;
+    border-radius: 15%;
+    width: 15%;
+    /*tamaño-tipo-color*/
+    border: 2px solid white;
+    padding: 3px;
+    background-color: white;
+}
+.texto2{
+    background-color: black;
+    position:absolute;
+    top: 72%;
+    left: 44%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: white;
+}
+#mart{
+    margin-left:3%;
+    border-radius: 15%;
+    width: 15%;
+    /*tamaño-tipo-color*/
+    border: 2px solid white;
+    padding: 3px;
+    background-color: white;
+}
+.texto3{
+    background-color: black;
+    position:absolute;
+    top: 72%;
+    left: 62%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: white;
+}
+#jup{
+    margin-left:3%;
+    border-radius: 15%;
+    width: 15%;
+    /*tamaño-tipo-color*/
+    border: 2px solid white;
+    padding: 3px;
+    background-color: white;
+}
+.texto4{
+    background-color: black;
+    position:absolute;
+    top: 72%;
+    left: 79%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: white;
+}
+.caja1{
+    position: relative;
+    display: inline-block;
+}
+#sat{
+    margin-left:3%;
+    border-radius: 15%;
+    width: 15%;
+    /*tamaño-tipo-color*/
+    border: 2px solid white;
+    padding: 3px;
+    background-color: white;
+}
+.texto5{
+    background-color: black;
+    position:absolute;
+    top: 40%;
+    left: 6.6%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: white;
+} 
+main{
+    margin: 3%;
+}
+#ura{
+    margin-left:3%;
+    border-radius: 15%;
+    width: 15%;
+    /*tamaño-tipo-color*/
+    border: 2px solid white;
+    padding: 3px;
+    background-color: white;
+}
+.texto6{
+    background-color: black;
+    position:absolute;
+    top: 40%;
+    left: 27%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: white;
+} 
+#nep{
+    margin-left:3%;
+    border-radius: 15%;
+    width: 15%;
+    /*tamaño-tipo-color*/
+    border: 2px solid white;
+    padding: 3px;
+    background-color: white;
+}
+.texto7{
+    background-color: black;
+    position:absolute;
+    top: 40%;
+    left: 45%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: white;
+} 
+footer{
+    background-color: black;
+    color: beige;
+    width: 101.3%;
+    height: 67px;
+    text-align: center;
+    margin-left: -9px;
+    bottom: 10px;
+    margin-top: -26px;
+}
+
+
+#en{ 
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    margin: 20px;
+    color: white;
+    border-radius: 2px;
+}
+#en:hover{
+    background-color: rgb(255, 101, 101,0.3);
+    color: white;
+    font-size: x-large;
+}
+#sol{
+    margin-top: 10%;
+    width: 92%;
+}
+h3{
+    color: white;
+}
+p{
+    color: white;
+    font-size: 16px;
+}
+#sd{
+    float: left;
+    margin: 4%;
+
+}
+#insta{
+    background-color: white;
+    width: 2%;
+    float: left;
+    margin-top: 38px;
+}
+#fb{
+    background-color: white;
+    width: 2%;
+    float: right;
+    margin-top: 38px;
+}

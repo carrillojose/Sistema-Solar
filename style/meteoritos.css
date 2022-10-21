@@ -1,0 +1,105 @@
+header{
+    
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:rgba(7, 6, 6,0.9);
+    text-shadow: 1px 5px 8px blue
+}
+body{
+    background-image: url("https://www.gratistodo.com/wp-content/uploads/2016/08/Gifs-del-Universo.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+header{
+    text-align: center;
+    color: white;
+    position: fixed;
+    background-color: black;
+    width: 100%;
+    padding: 9px;
+    margin-top: -9px;
+    margin: -9px;
+    }
+.caja{
+        position: relative;
+        display: inline-block;
+    }
+footer{
+    background-color: black;
+    color: beige;
+    width: 101.3%;
+    height: 69px;
+    text-align: center;
+    margin-left: -9px;
+    bottom: 10px;
+    }
+    
+    
+#en{ 
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    margin: 20px;
+    color: white;
+    border-radius: 2px;
+    }
+#en:hover{
+    background-color: rgb(255, 101, 101,0.3);
+    color: white;
+    font-size: x-large;
+    }
+#sol{
+    margin-top: 10%;
+    width: 100%;
+    }
+h3{
+    color: white;
+}
+p{
+    color: white;
+    font-size: 16px;
+    }
+    #sd{
+    float: left;
+    margin: 4%;
+}
+table, th, td{
+    color: white;
+    border: 1px solid white;
+}
+table{
+    width: 100%;
+}
+tr{
+    margin-top: 20%;
+}
+td img{ 
+float: left;
+margin-left: 28%;
+border-radius: 15%;
+border: 2px solid white;
+background-color: white;
+}
+th{
+    height: 50%;
+    background-color: rgb(98, 98, 252);
+}
+#we{
+    font-family:cursive;
+    text-align: center;
+}
+p{
+    text-align: left;
+    margin-left: 6px;
+}
+#insta{
+    background-color: white;
+    width: 2%;
+    float: left;
+    margin-top: 38px;
+}
+#fb{
+    background-color: white;
+    width: 2%;
+    float: right;
+    margin-top: 38px;
+}
